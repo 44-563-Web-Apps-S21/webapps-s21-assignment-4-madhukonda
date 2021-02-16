@@ -19,14 +19,36 @@
     color:red;
 }
 .DUKE SOLINUS{
-    color:brown;
+    color:red;
 }
 .AEGEON{
     color:yellow;
 }
 .SOLINUS{
-    color:black;
+    color:red;
 }
 .Gaoler{
     color:cyan;
+}
+table, th, td {
+    border: 5px solid black; 
+    width:auto;
+    border-collapse: collapse;
+    text-align: center;
+   
+  }
+  td, th {
+    padding: 10px 10px;
+  }
+ th{
+    background-color:antiquewhite
+}
+td{
+    background-color:grey;
+}
+table{
+    margin: 25px 50px 75px 100px;
+  }
+table{
+    border-style: double;
 }
