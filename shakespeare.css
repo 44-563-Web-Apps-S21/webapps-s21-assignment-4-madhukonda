@@ -52,3 +52,23 @@ table{
 table{
     border-style: double;
 }
+.name:hover {
+    background-color:black;
+  }
+.name {
+    text-shadow: 2px 2px 5px red;
+  }
+.name{
+    border-style: dotted dashed solid double;
+}
+img:hover{
+    transition: transform 2s;
+    transform: scaleX(1.1);
+    border: 5px solid #555;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
